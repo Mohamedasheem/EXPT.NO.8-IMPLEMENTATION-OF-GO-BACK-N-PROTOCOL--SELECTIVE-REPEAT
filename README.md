@@ -13,6 +13,7 @@ Personal Computer Turbo C Compiler
 14.	Choose the file and verify the go back protocol operation.
 
 # PROGRAM:
+~~~
 
 #include<stdio.h> void main()
 {
@@ -47,7 +48,9 @@ printf("\n Sending frame %d \n FRAME ACKNOWLEDGED.	\n",j);
 
 printf("\n\nALL FRAME RECIEVED SUCCESSFULLY\n\n");
 }
+~~~
 OUTPUT:
+<img width="1280" height="835" alt="image" src="https://github.com/user-attachments/assets/39c12d3e-94f0-4c01-9db7-a096693ec7a1" />
 
  
 
@@ -58,3 +61,4 @@ OUTPUT:
 
 # RESULT:
 Thus the Go-Back-N protocol- Selective Repeat was implemented and the output is verified successfully.
+<img width="1280" height="854" alt="image" src="https://github.com/user-attachments/assets/5974edb4-3542-4631-a971-244fb542f8f2" />
